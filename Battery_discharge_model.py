@@ -1,5 +1,5 @@
 """
-Battery Discharge Model – Full Mathematical Simulation
+Battery Discharge Model 
 ======================================================
 
 This script simulates the terminal voltage of a battery over time as it discharges under
@@ -123,3 +123,4 @@ plt.grid(True)
 plt.legend()
 plt.tight_layout()
 plt.show()
+
